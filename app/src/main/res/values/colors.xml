@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1579b6</color>
+    <color name="colorPrimaryDark">#1579b6</color>
+    <color name="colorAccent">#e41344</color>
+
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorTransparentWhite">#cccccc</color>
+
+
+    <color name="colorBlueHcube">#1579b6</color>
+    <color name="colorRedHcube">#e41344</color>
+    <color name="colorGreenHcube">#91bf23</color>
+    <color name="colorYellowHcube">#fbb81f</color>
+</resources>

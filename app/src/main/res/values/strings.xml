@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">hcube-conseil</string>
+
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="s_inscrire">S\'inscrire</string>
+    <string name="inscription">Inscription</string>
+    <string name="votre_email">Votre Email</string>
+    <string name="votre_mot_de_passe">Votre mot de passe</string>
+    <string name="confirmez_votre_mot_de_passe">Confirmez votre mot de passe</string>
+    <string name="tv_s_inscrire">S\'inscrire</string>
+    <string name="nom">Nom</string>
+    <string name="mot_de_passe">mot de passe</string>
+    <string name="se_connecter">Se Connecter</string>
+    <string name="nom_nom_d_entreprise">Nom (Nom d\'entreprise)</string>
+    <string name="valider">Valider</string>
+    <string name="pas_encore_inscrit">Pas encore inscrit ?</string>
+    <string name="inscrivez_vous">Inscrivez vous !</string>
+    <string name="hcube">hcube</string>
+</resources>

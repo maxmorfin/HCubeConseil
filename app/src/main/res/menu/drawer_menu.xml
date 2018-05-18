@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/aPropos" android:title="A Propos" android:icon="@drawable/ic_about_bm"/>
+    <item android:id="@+id/clients" android:title="Nos Clients" android:icon="@drawable/ic_clients_bm"/>
+    <item android:id="@+id/equipe" android:title="L'Equipe" android:icon="@drawable/ic_staff_bm"/>
+    <item android:id="@+id/contact" android:title="Contact" android:icon="@drawable/ic_contacts_bm"/>
+
+</menu>
