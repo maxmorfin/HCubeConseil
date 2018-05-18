@@ -26,7 +26,8 @@
 
         <activity android:name=".vue.LoginActivity" />
         <activity android:name=".vue.RegisterActivity" />
-        <activity android:name=".vue.EntrepriseActivity"></activity>
+        <activity android:name=".vue.EntrepriseActivity" />
+        <activity android:name=".vue.TalentActivity"></activity>
     </application>
 
 </manifest>

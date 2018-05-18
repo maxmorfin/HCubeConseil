@@ -34,6 +34,7 @@ public class SessionManager {
     }
 
     public void insertUser(String id, String pseudo){
+
         editor.putString(ID, id);
         editor.putString(PSEUDO, pseudo);
         editor.putBoolean(IS_LOGGED, true);

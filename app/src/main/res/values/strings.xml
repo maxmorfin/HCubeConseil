@@ -20,4 +20,5 @@
     <string name="pas_encore_inscrit">Pas encore inscrit ?</string>
     <string name="inscrivez_vous">Inscrivez vous !</string>
     <string name="hcube">hcube</string>
+    <string name="deconnexion">deconnexion</string>
 </resources>

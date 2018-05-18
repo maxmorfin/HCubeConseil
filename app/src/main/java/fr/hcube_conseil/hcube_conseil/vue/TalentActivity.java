@@ -11,7 +11,6 @@ import android.support.v4.widget.DrawerLayout;
 import android.support.v7.app.ActionBarDrawerToggle;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
@@ -24,7 +23,7 @@ import fr.hcube_conseil.hcube_conseil.fragments.Client;
 import fr.hcube_conseil.hcube_conseil.fragments.Contact;
 import fr.hcube_conseil.hcube_conseil.fragments.Equipe;
 
-public class EntrepriseActivity extends AppCompatActivity {
+public class TalentActivity extends AppCompatActivity {
 
     private DrawerLayout drawerLayout;
     private ActionBarDrawerToggle actionBarDrawerToggle;
@@ -49,8 +48,6 @@ public class EntrepriseActivity extends AppCompatActivity {
         setupDrawerContent(navigationView);
 
         sessionManager = new SessionManager(this);
-
-        Log.d("id", "*********************" + sessionManager.getId());
 
 
         btn_deconnexion.setOnClickListener(new View.OnClickListener() {
